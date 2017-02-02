@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Real-time Parking Booking System</string>
+
+    <string name="sign_in_email">Enter Email</string>
+    <string name="sign_in_password">Enter Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_first">Don\'t have an account? </string>
+    <string name="not_sign_In">Sign Up Now!</string>
+
+    <string name="username">Enter Username</string>
+    <string name="user_full_name">Enter User Full Name</string>
+    <string name="user_email">Enter User Email</string>
+    <string name="user_password">Enter User Password</string>
+    <string name="user_sign_up">User Sign Up</string>
+
+    <string name="auth_failed">Authorization Failed!</string>
+    <string name="password_error">Password is too short!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ign_In_Admin">Sign In With Admin</string>
+    <string name="sign_member">Sign In With Member</string>
+    <string name="user_sign_in">User Sign In</string>
+    <string name="user_booking_list">Users Booking List</string>
+    <string name="user_location_list">Users Location List</string>
+    <string name="end_booking_date">Set End Booking Date</string>
+    <string name="start_booking_date">Set Start Booking Date</string>
+
+</resources>

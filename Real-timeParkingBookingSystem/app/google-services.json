@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718095414359",
+    "firebase_url": "https://parking-booking-system-c0e2a.firebaseio.com",
+    "project_id": "parking-booking-system-c0e2a",
+    "storage_bucket": "parking-booking-system-c0e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718095414359:android:8fbdf05feab23e21",
+        "android_client_info": {
+          "package_name": "com.waqkz.real_timeparkingbookingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718095414359-pjgndi71a6tdu9imcga8rkukaabnih0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waqkz.real_timeparkingbookingsystem",
+            "certificate_hash": "7A8A9B0161F3C8448E59B947A905A9DA21CE9191"
+          }
+        },
+        {
+          "client_id": "718095414359-lebs6dmbslp8hjkj6l5jnfdd1e7t9pq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuXnLDOzi8Y6Z5yVzt0vxOhMxR2fKcLM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718095414359-lebs6dmbslp8hjkj6l5jnfdd1e7t9pq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

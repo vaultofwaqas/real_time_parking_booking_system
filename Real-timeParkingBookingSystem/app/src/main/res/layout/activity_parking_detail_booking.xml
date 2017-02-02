@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_parking_detail_booking"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.waqkz.real_timeparkingbookingsystem.ParkingDetailBookingActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/start_booking_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/start_booking_date"/>
+
+        <TextView
+            android:id="@+id/startBookingDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/end_booking_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/end_booking_date"/>
+
+        <TextView
+            android:id="@+id/endBookingDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>
